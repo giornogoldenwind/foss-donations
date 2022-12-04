@@ -68,9 +68,9 @@ for you when you [tell](https://www.youtube.com/watch?v=FFz57zNR_M0) people
 online to use an RSS feed reader to update Android apps, but ignore the fact
 that every other person who just wants to live life will already be overwhelmed
 when you even set up a GrapheneOS phone on their behalf with respect to usability.
-Just like how [Kakashi](https://en.wikipedia.org/wiki/Kakashi_Hatake) ultimately
-learned to value the lives of his teammates over any given mission, I've come to
-value humane usability over legalist security worship.)
+Just like how [Kakashi](https://en.wikipedia.org/wiki/Kakashi_Hatake) from
+_Naruto_ ultimately learned to value the lives of his teammates over any given
+mission, I've come to value humane usability over legalist security worship.)
 
 * [Info pate](https://f-droid.org/en/donate/)
     * [Open Collective](https://opencollective.com/f-droid) (for USD donations)
