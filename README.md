@@ -106,7 +106,28 @@ Need I need to say more?  (If only SoloKeys could implement
 
 ### [Molly](https://molly.im/)
 
-Molly is a security hardened fork of Signal that offers a local message database encryption with a separate password (this is why I have to use KeePassXC to use a random 128 character password to unlock Molly), a FOSS variant (which avoid any proprietary libraries, unlike the Signal app for Android), removal of MobileCoin, and automatic blocking of Signal users not in your contact book.  There once was a time when Signal truly cracked down on any third-party fork of the Signal client on Android, but things at Signal seem to have changed since 2020.  (However, I won't dig any of that stuff up, because the neurotic minutia combing in those primary sources is genuinely painful to pull up.)  That being said, you are [trusting](https://blog.privacyguides.org/2022/07/07/signal-configuration-and-hardening/#caveats) Molly, as it updates every two weeks (unless there are security updates), on top of Signal with respect to the total number of development entities to trust.  For more info, see the 2022 Signal Configuration and Hardening Guide from [Privacy Guides](https://blog.privacyguides.org/2022/07/07/signal-configuration-and-hardening) (which will probably be moved in the next two weeks to effectively remove all mentions of GitHub's "front end" with respect to contributors, even though you can't get rid of all of the contribution history for the [site](https://github.com/privacyguides/privacyguides.org/graphs/contributors) and the [blog](https://github.com/privacyguides/blog.privacyguides.org/graphs/contributors) - until the Privacy Guides team eventually does exactly that by moving everything to a new repository to do exactly what I thought those people would never dare to do).
+Molly is a security hardened fork of Signal that offers a local message database
+encryption with a separate password (this is why I have to use KeePassXC to use
+a random 128 character password to unlock Molly), a FOSS variant (which avoid
+any proprietary libraries, unlike the Signal app for Android), removal of
+MobileCoin, and automatic blocking of Signal users not in your contact book.
+There once was a time when Signal truly cracked down on any third-party fork of
+the Signal client on Android, but things at Signal seem to have changed since
+2020.  (However, I won't dig any of that stuff up, because the neurotic minutia
+combing in those primary sources is genuinely painful to pull up.)  That being
+said, you are [trusting](https://blog.privacyguides.org/2022/07/07/signal-configuration-and-hardening/#caveats)
+Molly, as it updates every two weeks (unless there are security updates), on top
+of Signal with respect to the total number of development entities to trust.
+For more info, see the 2022 Signal Configuration and Hardening Guide from
+[Privacy Guides](https://blog.privacyguides.org/2022/07/07/signal-configuration-and-hardening)
+(which will probably be moved in the next two weeks to effectively remove all
+mentions of GitHub's "front end" with respect to contributors, even though you
+can't get rid of all of the contribution history for the
+[site](https://github.com/privacyguides/privacyguides.org/graphs/contributors)
+and the [blog](https://github.com/privacyguides/blog.privacyguides.org/graphs/contributors)
+- until the Privacy Guides team eventually does exactly that by moving everything
+to a new repository to do exactly what I thought those people would never dare
+to do).
 
 * [Donation page](https://molly.im/#projects)
     * [Open Collective](https://opencollective.com/mollyim)
