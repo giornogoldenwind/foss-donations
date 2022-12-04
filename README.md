@@ -12,7 +12,20 @@ nation state adversaries).
 I'll try to keep this updated, but I don't make any promises that this list will
 always be free of dead links.
 
-The list order is alphabetical.
+Some general guidelines:
+
+* The list order is alphabetical.
+* This is the order of credit/debit card donations:
+    * Direct (sort of rare, especially tax deductible)
+    * [Open Collective](https://opencollective.com/), which is tax deductible
+    * [Liberapay](https://en.wikipedia.org/wiki/Liberapay), which is tax deductible
+    * [GitHub Sponsors](https://en.wikipedia.org/wiki/GitHub#GitHub_Sponsors),
+      which is not tax deductible but at least covers the transaction fees so
+      that recipients keep the full donation amount
+    * PayPal, but only if other methods are scarce
+    * Patreon, which isn't great for FOSS development but still mentioned if not
+      many methods exist
+* Highlight Monero or Zcash, if available
 
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
@@ -53,6 +66,7 @@ out-of-the-box Pixels.
     * Credit/debit card via [GitHub Sponsors](https://github.com/sponsors/thestinger)
       to lead developer Daniel Micay
     * Various cryptocurrency options
+      * Includes Monero
 
 ### [KeePassDX](https://www.keepassdx.com/)
 
