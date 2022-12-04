@@ -220,8 +220,25 @@ itself.  (If Molly lets its users decide between using the auto-updater and the
 F-Droid repo like actual adults, then I can manage my decision as as adult as
 well.)
 
+### [LibreWolf](https://librewolf.net/)
+
+I have never used the `user.js` profile from [Arkenfox](https://github.com/arkenfox/user.js/wiki),
+because I previously depended on the prior Firefox hardening guide from Privacy
+Guides (which was carried over from the Privacy Tools days).  Then, when this
+was no longer necessary [in 2021](https://blog.privacyguides.org/2021/12/01/firefox-privacy-2021-update/)
+(c.f. this additional 2022 [video](https://www.youtube.com/watch?v=F7-bW2y6lcI)
+from Techlore as well), I haven't bothered to set up any new instance of Firefox
+properly.  Instead, I simply use LibreWolf, which has all of the Arkenfox
+settings out of the box.  (LibreWolf on Linux is awesome, because updating
+LibreWolf is a breeze and even updating the AUR manually for Pacman-based
+distributions with `paru` is ok - but allegedly the Windows version doesn't
+auto-update?)  Anyways, LibreWolf [doesn't](https://librewolf.net/docs/faq/#why-dont-you-accept-donations)
+accept donations, but at least readers can spread the word about LibreWolf - as
+it has all of the privacy "tweaks" one has to manually perform anyways on
+"vanilla" Firefox.
+
 ### [System76](https://en.wikipedia.org/wiki/System76)
-* Just buy System76 hardware for the most direct support
+Just buy System76 hardware for the most direct support
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
 * Show symbolic support with $1/month
     * Click on the `SUPPORT POP` button to create a System76 account
