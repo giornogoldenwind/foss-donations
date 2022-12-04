@@ -33,6 +33,12 @@ list (i.e., absolutely not neutral), as my opinions have ended up leaking out
 throughout the list.  As a fair warning, inserting my opinionated thoughts was a
 nonlinear fashion, so the ordering may not make any sense to outside readers.
 
+### Disclaimer
+I have not been sponsored to list any of these projects.  If I use
+certain software or hardware listed here, then I will mention that fact when
+applicable and appropriate.  I also use these with my own money, if price
+applies.
+
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
@@ -299,7 +305,69 @@ it has all of the privacy "tweaks" one has to manually perform anyways on
 "vanilla" Firefox.
 
 ### [System76](https://en.wikipedia.org/wiki/System76)
-Just buy System76 hardware for the most direct support
+
+System76 is one of the most pragmatic "I need a solution right now" for computer
+hardware that is manufactured (as much as possible now) and assembled in the
+U.S., compared to other large corporations making laptops in Asia.  (I'm looking
+at you, Dell.)  The original 2018 Bloomberg
+[story](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
+about how China put "evil" chips on boards of Super Micro Computer Inc. servers
+has details that are heavily disputed, as Amazon and Apple pretend that
+everything is ok while the FBI is likely giving the "public" version that's very
+different from the version that [IC](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
+[sysadmins](https://en.wikipedia.org/wiki/System_administrator) see from
+[Heartbeat](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)#Part_Three)
+- but you already knew that if you read _Permanent Record_.  However, regardless
+of who is lying (or if the whole ordeal itself is fabricated, as a counter
+[analysis](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/)
+from _The Intercept_ indicates), the fundamental issue still stands: how do you
+secure U.S. supply chains?  If there is an solution, then it's slow and requires
+years of working trade knowledge of simply manufacturing
+[ICs](https://en.wikipedia.org/wiki/Integrated_circuit) and other
+[PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) within U.S. borders
+- an industry that hasn't exactly flourished since the 1990s.  Yes, this could
+alleviate some of the chip shortage that's been raging since at least 2019 (yes,
+it started earlier before the COVID-19 pandemic started), but even U.S.
+manufacturing wouldn't stop NSA interdiction of mailed computing equipment.
+Don't believe me?  Watch both videos from the
+[raison d'être](https://en.wiktionary.org/wiki/raison_d%27%C3%AAtre)
+[post](https://www.bunniestudios.com/blog/?p=5706) for Betrusted/Precursor and
+ironically mail [interdiction](https://en.wikipedia.org/wiki/Interdiction#United_States)
+becomes much easier for [TAO](https://en.wikipedia.org/wiki/Tailored_Access_Operations)
+to perform.  In fact, once on Twitter (before half of those tweets were
+deleted), you'll find out that [Ariadne Conill](https://ariadne.space/about/), a
+main contributor to [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux),
+cannot simply order ThinkPads from Lenovo, as the package will mysteriously be
+redirected to [Langley, VA](https://en.wikipedia.org/wiki/Langley,_Virginia)
+from China, where the CIA headquarters is located (and the NSA effectively works
+from there, too).  Apparently this is what a U.S. citizen is awarded with when
+they maintain a Linux distro and works at [Chainguard](https://www.chainguard.dev/)
+to secure software supply chains for the greater good.  I think JFK's most famous
+[quote ](https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy#Inaugural_address)
+from his inaugural address requires a significant amount of reconsideration when
+asking the question of how little the collective U.S. appreciates your work when
+asking what one can do for the U.S. in 2022, all in the name of "national
+security".  Anyways, Bernie Sanders is correct - the [CHIPS and Science Act](CHIPS and Science Act)
+(also known as the "semiconductor spending bill") is a scam that helps the IC
+cartels profit and [Andrew Huang](https://www.youtube.com/watch?v=YKdtHz9O2Mo)
+agrees (and I'm actually surprised that Sanders came to the same
+[conclusion](https://www.sanders.senate.gov/press-releases/news-sanders-opposes-all-blank-checks-to-chip-companies/)
+as Huang).  Also, mail interdiction's seems like an expensive operation (even in
+late 2022) and more fitting for targeted surveillance rather than mass
+surveillance (the latter being much easier to fend off), so, realistically
+speaking with a holistic approach, I doubt placing poisoned ICs onto PCBs is
+happening on a massive scale.  The [Launch 1](https://system76.com/accessories/launch)
+series keyboards have [QMK](https://docs.qmk.fm/#/)
+[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/system76)
+and both the mechanical and electrical designs are on [GitHub](https://github.com/system76/launch).
+(I have the Launch 1.) (Interesting, there's QMK firmware for the
+[IBM Model M](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ibm/model_m_4th_gen)
+and some [Unicomp](https://github.com/qmk/qmk_firmware/tree/master/keyboards/unicomp)
+keyboards.)  Open source firmware and mechanical/electrical designs of System76
+laptops and desktops will happen... when it happens.
+
+* Buy System76 [hardware](https://system76.com/) for the most direct support
+
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
 * Show symbolic support with $1/month
     * Click on the `SUPPORT POP` button to create a System76 account
