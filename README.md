@@ -53,6 +53,31 @@ mouth and either improve F-Droid or make a better competitor to F-Droid.)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
     * Cryptocurrency
 
+### [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
+
+F-Droid is the first app I install on any new Owner profile on an Android device
+in order to get Droid-ify and Aurora Store.  (Sorry
+[LineageOS for microG](https://lineage.microg.org/) - I can't deal with F-Droid
+being installed as a privileged app anymore, as this will interfere with
+Droid-ify.)  At least if I am setting up an Android device "in the woods", with
+none of my current electronic belongings, then I will have to install F-Droid
+after verifying the PGP signature on Linux (otherwise, if I skipped that, then I
+would be ok with downloading Droid-ify straight from GitHub with no
+verification).  (Call me stupidly stubborn, but this is why I have no sympathy
+for you when you [tell](https://www.youtube.com/watch?v=FFz57zNR_M0) people
+online to use an RSS feed reader to update Android apps, but ignore the fact
+that every other person who just wants to live life will already be overwhelmed
+when you even set up a GrapheneOS phone on their behalf with respect to usability.
+Just like how [Kakashi](https://en.wikipedia.org/wiki/Kakashi_Hatake) ultimately
+learned to value the lives of his teammates over any given mission, I've come to
+value humane usability over legalist security worship.)
+
+* [Info pate](https://f-droid.org/en/donate/)
+    * [Open Collective](https://opencollective.com/f-droid) (for USD donations)
+        * There's a different collective for [EUR](https://opencollective.com/f-droid-euro)
+    * [Liberapay](https://liberapay.com/F-Droid-Data/)
+    * [GitHub Sponsors](https://github.com/sponsors/f-droid)
+
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
 The alternative Android OS that Snowden recommends, back in
