@@ -5,6 +5,10 @@ adjacent efforts, because I'm tired of keeping them on a text file that might
 get obliterated the next time I attempt to perform an "exotic" operation to my
 computer.
 
+I think this list could help others (and I doubt making this list public on a
+pseudonymous GitHub account will change my security posture against current
+nation state adversaries).
+
 I'll try to keep this updated, but I don't make any promises that this list will
 always be free of dead links.
 
@@ -14,6 +18,18 @@ The list order is alphabetical.
 These projects accept direct donations in some shape, fashion, or form.
 
 ### [Bromite](https://www.bromite.org/)
+
+This non-[Tor](https://en.wikipedia.org/wiki/Tor_(network)) browser has
+[ad blocking](https://en.wikipedia.org/wiki/Ad_blocking), so this makes web
+browsing on an Android device more bearable.  (I'm looking at you with contempt,
+[Vanadium](https://github.com/GrapheneOS/Vanadium) - which can only be used on
+GrapheneOS devices and lacks dark theme rendering of web pages and always-on
+Incognito mode.  I don't give a hoot if installing Bromite via Droid-ify
+[breaks](https://wonderfall.dev/fdroid-issues/) the Android security model - as
+long as Michael Bazzell recommends some form of F-Droid, I'll keep my F-Droid
+repository apps updated via Droid-ify.  Shut your mouth and either improve
+F-Droid or make a better competitor to F-Droid.)
+
 * [Info page](https://www.bromite.org/#donate)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
     * Cryptocurrency
@@ -21,6 +37,15 @@ These projects accept direct donations in some shape, fashion, or form.
         * Ethereum
 
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
+
+The alternative Android OS that Snowden recommends, back in
+[2019](https://nitter.lacontrevoie.fr/Snowden/status/1175430722733129729#m)
+before [_Permanent Record_](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography))
+was published and in [November 2022](https://nitter.lacontrevoie.fr/Snowden/status/1588472045960327168#m).
+GrapheneOS lets you experience which settings in out-of-the-box stock Android
+come from are part of [AOSP](https://en.wikipedia.org/wiki/Android_(operating_system)#AOSP)
+and which only exist with [Google Play Services](https://en.wikipedia.org/wiki/Google_Play_Services).
+
 * [Info page](https://grapheneos.org/donate)
     * Credit/debit card via [GitHub Sponsors](https://github.com/sponsors/thestinger)
       to lead developer Daniel Micay
