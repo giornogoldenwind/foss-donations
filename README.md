@@ -124,6 +124,7 @@ praising Tor and Signal in September 2016; Snowden suggests using Signal,
 instead of e-mail, for truly private communications in 2019 before
 _Permanent Record_ came out; and Snowden says that he hasn't died from using
 Signal in [January 2021](https://nitter.lacontrevoie.fr/Snowden/status/1347217810368442368#m).
+Signal isn't perfect - but Tor and Qubes OS are the same.
 
 * Direct [donation page](https://signal.org/donate/)
     * Credit/debit card
@@ -133,6 +134,18 @@ Signal in [January 2021](https://nitter.lacontrevoie.fr/Snowden/status/134721781
           is accepted?  Pathetic!
 
 ### [SoloKeys](https://solokeys.com/)
+
+SoloKeys is an open-source hardware security key for
+[2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication), which is for
+the older U2F protocol or the newer FIDO2 protcol of [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn).
+This is a good alternative to YubiKey Security Key (but not the YubiKey 5 NFC
+for securing a KeePassXC database).  There's nothing wrong with the security
+keys from [Nitrokey](https://en.wikipedia.org/wiki/Nitrokey), but those residing
+in the U.S. could simply source perfectly equivalent security keys from the Solo
+1 series from North America rather than going across the Atlantic Ocean for a
+Nitrokey device.  At the very least SoloKeys could help lower shipping costs to
+those in the U.S. and North America.
+
 * Credit/debit card via [GitHub Sponsors](https://github.com/sponsors/solokeys)
     * Though the most effective support is buying SoloKeys or contributing code
 
