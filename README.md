@@ -168,6 +168,22 @@ These projects can't be funded with traditionally direct donations.
 * Support software hacker and fellow collaborator Sean Cross via
   [GitHub Sponsors](https://github.com/sponsors/xobs)
 
+### [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+
+Droid-ify installs F-Droid repository apps without any permissions - unlike
+F-Droid.  F-Droid isn't perfect by any means, but Droid-ify improves the UI and
+UX of F-Droid.  Still, Droid-ify doesn't fix any of the fundamental issues of
+F-Droid.  (If you want to keep an eye on a future app store that has the
+unmatched power and seamless experience of GrapheneOS's [App store](https://github.com/GrapheneOS/Apps)
+with the possibility of having the availability of F-Droid without its inherent
+security shortcomings, then get to know the [Accrescent](https://accrescent.app/)
+app store.)  That being said, I do not care what Privacy Guides has to say if
+Michael Bazzell pays no mind to that group and Neo Store's UI feels as cluttered
+(if not more cluttered) than the Google [Play Store](https://en.wikipedia.org/wiki/Google_Play)
+itself.  (If Molly lets its users decide between using the auto-updater and the
+F-Droid repo like actual adults, then I can manage my decision as as adult as
+well.)
+
 ### [System76](https://en.wikipedia.org/wiki/System76)
 * Just buy System76 hardware for the most direct support
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
