@@ -45,6 +45,9 @@ was published and in [November 2022](https://nitter.lacontrevoie.fr/Snowden/stat
 GrapheneOS lets you experience which settings in out-of-the-box stock Android
 come from are part of [AOSP](https://en.wikipedia.org/wiki/Android_(operating_system)#AOSP)
 and which only exist with [Google Play Services](https://en.wikipedia.org/wiki/Google_Play_Services).
+GrapheneOS does custom Android OS correctly, even porting the latest Android
+versions to its stable release channels than even Google itself for
+out-of-the-box Pixels.
 
 * [Info page](https://grapheneos.org/donate)
     * Credit/debit card via [GitHub Sponsors](https://github.com/sponsors/thestinger)
@@ -52,11 +55,27 @@ and which only exist with [Google Play Services](https://en.wikipedia.org/wiki/G
     * Various cryptocurrency options
 
 ### [KeePassDX](https://www.keepassdx.com/)
+
+This is the Android version of [KeePass](https://en.wikipedia.org/wiki/KeePass).
+KeePassDX is influenced to be modern, like KeePassXC.  This works great,
+especially if you simply want a copy your KeePassXC database
+[protected](https://keepassxc.org/docs/#faq-yubikey-2fa) with a YubiKey 4/5 NFC
+device to still [work](https://github.com/Kunzisoft/KeePassDX/wiki/Hardware-Key#yubikey)
+on your Android device, via either [USB OTG](https://en.wikipedia.org/wiki/USB_On-The-Go)
+or [NFC](https://en.wikipedia.org/wiki/Near-field_communication).
+
 * [Info page](https://www.keepassdx.com/#donation)
     * [Liberapay](https://liberapay.com/Kunzisoft/donate)
     * PayPal for credit/debit card
 
 ### [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC)
+
+IMHO, KeePassXC is the best local password manager.  It's included in Tails
+(well, the version that Debian Stable is stuck with, which isn't the fault of
+Tails) and looks much better than the Windows native [KeePass](https://en.wikipedia.org/wiki/KeePass).
+Need I need to say more?  (If only SoloKeys could implement
+[`hmac-secret`](https://github.com/Kunzisoft/KeePassDX/wiki/Hardware-Key#solokey)...)
+
 * [Info page](https://keepassxc.org/donate/)
     * Credit/debit card
         * [Open Collective](https://opencollective.com/keepassxc)
