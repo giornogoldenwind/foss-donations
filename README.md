@@ -130,7 +130,8 @@ investigators love the Wayback Machine, so learn to use it if you can't use
 * [Donation page](https://en.wikipedia.org/wiki/Internet_Archive)
     * PayPal, if you have an [issue](https://www.paypal.com/paypalme/internetarchive)
       with the credit card page
-    * Cryptocurrency: Zcash and Monero (through conversion)
+    * [Cryptocurrency](https://help.archive.org/help/do-you-accept-cryptocurrency/):
+      Zcash and Monero (through conversion)
 
 ### [KeePassDX](https://www.keepassdx.com/)
 
