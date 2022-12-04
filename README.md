@@ -37,11 +37,11 @@ This non-[Tor](https://en.wikipedia.org/wiki/Tor_(network)) browser has
 browsing on an Android device more bearable.  (I'm looking at you with contempt,
 [Vanadium](https://github.com/GrapheneOS/Vanadium) - which can only be used on
 GrapheneOS devices and lacks dark theme rendering of web pages and always-on
-Incognito mode.  I don't give a hoot if installing Bromite via Droid-ify
-[breaks](https://wonderfall.dev/fdroid-issues/) the Android security model - as
-long as Michael Bazzell recommends some form of F-Droid, I'll keep my F-Droid
-repository apps updated via Droid-ify.  Shut your mouth and either improve
-F-Droid or make a better competitor to F-Droid.)
+Incognito mode.  I don't give a hoot if installing Bromite via
+[Droid-ify](https://github.com/Iamlooker/Droid-ify) [breaks](https://wonderfall.dev/fdroid-issues/)
+the Android security model - as long as Michael Bazzell recommends some form of
+F-Droid, I'll keep my F-Droid repository apps updated via Droid-ify.  Shut your
+mouth and either improve F-Droid or make a better competitor to F-Droid.)
 
 * [Info page](https://www.bromite.org/#donate)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
