@@ -316,16 +316,16 @@ has details that are heavily disputed, as Amazon and Apple pretend that
 everything is ok while the FBI is likely giving the "public" version that's very
 different from the version that [IC](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
 [sysadmins](https://en.wikipedia.org/wiki/System_administrator) see from
-[Heartbeat](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)#Part_Three)
-- but you already knew that if you read _Permanent Record_.  However, regardless
+[Heartbeat](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)#Part_Three) -
+but you already knew that if you read _Permanent Record_.  However, regardless
 of who is lying (or if the whole ordeal itself is fabricated, as a counter
 [analysis](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/)
 from _The Intercept_ indicates), the fundamental issue still stands: how do you
 secure U.S. supply chains?  If there is an solution, then it's slow and requires
 years of working trade knowledge of simply manufacturing
 [ICs](https://en.wikipedia.org/wiki/Integrated_circuit) and other
-[PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) within U.S. borders
-- an industry that hasn't exactly flourished since the 1990s.  Yes, this could
+[PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) within U.S. borders -
+an industry that hasn't exactly flourished since the 1990s.  Yes, this could
 alleviate some of the chip shortage that's been raging since at least 2019 (yes,
 it started earlier before the COVID-19 pandemic started), but even U.S.
 manufacturing wouldn't stop NSA interdiction of mailed computing equipment.
