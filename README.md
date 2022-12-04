@@ -46,8 +46,6 @@ F-Droid or make a better competitor to F-Droid.)
 * [Info page](https://www.bromite.org/#donate)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
     * Cryptocurrency
-        * Bitcoin
-        * Ethereum
 
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
