@@ -99,11 +99,32 @@ Need I need to say more?  (If only SoloKeys could implement
             * Two different accounts for client and browser add-on
 
 ### [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
+
+Edward Snowden mentioned using Qubes OS in
+[September 2016](https://nitter.lacontrevoie.fr/Snowden/status/781493632293605376),
+[December 2017](https://nitter.lacontrevoie.fr/Snowden/status/941020119609892864#m),
+ and in [August 2019](https://nitter.lacontrevoie.fr/Snowden/status/1165607338973130752#m)
+(right before _Permanent Record_ was published).  The last mention calls out the
+usage of the Whonix gateway in Qubes OS.  The overall UX is rough, as the second
+mention alludes to, but the security offered by Qubes OS is definitely real (as
+the only potential competitor [Subgraph](https://en.wikipedia.org/wiki/Subgraph_(operating_system))
+hasn't updated since September 2017).
+
 * [Info page](https://www.qubes-os.org/donate/)
     * [Open Collective](https://opencollective.com/qubes-os)
     * Several cryptocurrency options
 
 ### [Signal](https://en.wikipedia.org/wiki/Signal_(software))
+
+Signal has been mentioned by Snowden many, many times - but I'll cover a few.
+The FBI already [knew](https://nitter.lacontrevoie.fr/Snowden/status/661313394906161152#m)
+Snowden uses Signal in November 2015; Snowden had a "regular" 
+[PSA](https://nitter.lacontrevoie.fr/Snowden/status/778592275144314884#m)
+praising Tor and Signal in September 2016; Snowden suggests using Signal,
+instead of e-mail, for truly private communications in 2019 before
+_Permanent Record_ came out; and Snowden says that he hasn't died from using
+Signal in [January 2021](https://nitter.lacontrevoie.fr/Snowden/status/1347217810368442368#m).
+
 * Direct [donation page](https://signal.org/donate/)
     * Credit/debit card
     * Many cryptocurrency options
