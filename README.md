@@ -135,9 +135,10 @@ The FBI already [knew](https://nitter.lacontrevoie.fr/Snowden/status/66131339490
 Snowden uses Signal in November 2015; Snowden had a "regular" 
 [PSA](https://nitter.lacontrevoie.fr/Snowden/status/778592275144314884#m)
 praising Tor and Signal in September 2016; Snowden suggests using Signal,
-instead of e-mail, for truly private communications in 2019 before
-_Permanent Record_ came out; and Snowden says that he hasn't died from using
-Signal in [January 2021](https://nitter.lacontrevoie.fr/Snowden/status/1347217810368442368#m).
+instead of e-mail, for truly private communications in
+[2019](https://nitter.lacontrevoie.fr/Snowden/status/1175437588129308672#m)
+before _Permanent Record_ came out; and Snowden says that he hasn't died from
+using Signal in [January 2021](https://nitter.lacontrevoie.fr/Snowden/status/1347217810368442368#m).
 Signal isn't perfect - but Tor and Qubes OS are the same.
 
 * Direct [donation page](https://signal.org/donate/)
