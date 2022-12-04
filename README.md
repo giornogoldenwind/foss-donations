@@ -49,7 +49,9 @@ investigations (which is a subset of [lost works](https://en.wikipedia.org/wiki/
 archive&period;today is excellent for bypassing certain paywalls, such as
 _The New Yorker_ and _The Boston Globe_.  However, I doubt that
 archive&period;today will ever be as popular as the Wayback Machine anytime
-soon.
+soon.  However, if archive&period;today can save a page, then it won't be taken
+down due to copyright strikes - unlike the Wayback Machine.  (This explains how
+the newspaper paywall bypass mentioned earlier can still stand.)
 
 * [Liberapay](https://liberapay.com/archiveis)
     * Strangely I could only find this by reading about Liberapay on Wikipedia
@@ -115,6 +117,20 @@ out-of-the-box Pixels.
       to lead developer Daniel Micay
     * Various cryptocurrency options
       * Includes Monero
+
+### Internet Archive
+
+Most known for the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine),
+the Internet Archive is similar to Wikipedia in that it runs on a shoestring
+budget, with respect to the service and bandwidth it maintains compared to other
+for-profit entities, such as Google or Microsoft.  Internet mystery
+investigators love the Wayback Machine, so learn to use it if you can't use
+`yt-dlp` on Linux.
+
+* [Donation page](https://en.wikipedia.org/wiki/Internet_Archive)
+    * PayPal, if you have an [issue](https://www.paypal.com/paypalme/internetarchive)
+      with the credit card page
+    * Cryptocurrency: Zcash and Monero (through conversion)
 
 ### [KeePassDX](https://www.keepassdx.com/)
 
