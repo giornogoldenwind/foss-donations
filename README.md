@@ -36,6 +36,25 @@ nonlinear fashion, so the ordering may not make any sense to outside readers.
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
+### [archive&period;today](https://en.wikipedia.org/wiki/Archive.today)
+
+archive&period;today is the lean and mean alternative to the Wayback Machine.
+There are some sites that archive&period;today won't work on or isn't all that
+helpful, but I can't remember any at the moment.  I do remember that
+archive&period;today can save Amazon reviews and product pages, which the
+Wayback Machine can't.  However, this isn't a comparison of archive&period;today
+with the Wayback Machine.  I'm sure that internet sleuths should look into
+archive&period;today for internet investigations, such as for lost media
+investigations (which is a subset of [lost works](https://en.wikipedia.org/wiki/Lost_literary_work)).
+archive&period;today is excellent for bypassing certain paywalls, such as
+_The New Yorker_ and _The Boston Globe_.  However, I doubt that
+archive&period;today will ever be as popular as the Wayback Machine anytime
+soon.
+
+* [Liberapay](https://liberapay.com/archiveis)
+    * Strangely I could only find this by reading about Liberapay on Wikipedia
+* PayPal
+
 ### [Bromite](https://www.bromite.org/)
 
 This non-[Tor](https://en.wikipedia.org/wiki/Tor_(network)) browser has
