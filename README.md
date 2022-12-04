@@ -118,7 +118,7 @@ out-of-the-box Pixels.
     * Various cryptocurrency options
       * Includes Monero
 
-### Internet Archive
+### [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
 Most known for the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine),
 the Internet Archive is similar to Wikipedia in that it runs on a shoestring
