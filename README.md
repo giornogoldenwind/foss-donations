@@ -42,6 +42,17 @@ applies.
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
+### Aegis
+
+Aegis is the best TOTP app on Android for the 6 digit MFA code that changes
+every 30 seconds.  Aegis allows for locally encrypted backups and works with
+Seedvault backups (which is available on GrapheneOS, CalyxOS, and
+LineageOS/DivestOS).
+
+* Credit card through [Buy Me A Coffee](: https://www.buymeacoffee.com/beemdevelopment)
+* Cryptocurrency methods (Bitcoin... and Nano?  Sorry, I'm mentally too old to
+deal with cryptocurrency coins that aren't egalitarian, such as Monero.)
+
 ### [archive&period;today](https://en.wikipedia.org/wiki/Archive.today)
 
 archive&period;today is the lean and mean alternative to the Wayback Machine.
@@ -257,6 +268,18 @@ those in the U.S. and North America.
     * This happens to be the English language and US country page
     * Find the donate link on the [homepage](https://www.wikipedia.org/) to
       correctly generated donate page for your locale
+
+### `yt-dlp`
+
+`yt-dlp` is a fork of [`youtube-dl`](https://en.wikipedia.org/wiki/Youtube-dl)
+that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
+recover with respect to software development speed after the RIAA legal bullying
+in [November 2020](https://en.wikipedia.org/wiki/Youtube-dl#RIAA_takedown_request).
+
+* There is a donation [page](https://github.com/yt-dlp/yt-dlp/blob/master/Collaborators.md#collaborators)
+  for main contributing developers, where you can donate to each developer
+  individually. This is a bit more difficult to figure out how to distribute
+  funds, but it can be done if one is sufficiently motivated to do so.
 
 ## Not fundable
 These projects can't be funded with traditionally direct donations.
