@@ -42,7 +42,7 @@ applies.
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
-### Aegis
+### [Aegis](https://getaegis.app/)
 
 Aegis is the best TOTP app on Android for the 6 digit MFA code that changes
 every 30 seconds.  Aegis allows for locally encrypted backups and works with
@@ -269,7 +269,7 @@ those in the U.S. and North America.
     * Find the donate link on the [homepage](https://www.wikipedia.org/) to
       correctly generated donate page for your locale
 
-### `yt-dlp`
+### [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 
 `yt-dlp` is a fork of [`youtube-dl`](https://en.wikipedia.org/wiki/Youtube-dl)
 that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
