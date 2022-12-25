@@ -283,7 +283,7 @@ those in the U.S. and North America.
       correctly generated donate page for your locale
 
 ## Not fundable
-These projects can't be funded with traditionally direct donations.
+These projects can't be funded with traditional direct donations.
 
 ### [Betrusted](https://betrusted.io/)
 * Contributing code back to Betrusted on [GitHub](https://github.com/betrusted-io)
