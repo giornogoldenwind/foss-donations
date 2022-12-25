@@ -282,13 +282,6 @@ those in the U.S. and North America.
     * Find the donate link on the [homepage](https://www.wikipedia.org/) to
       correctly generated donate page for your locale
 
-### [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
-
-`yt-dlp` is a fork of [`youtube-dl`](https://en.wikipedia.org/wiki/Youtube-dl)
-that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
-recover with respect to software development speed after the RIAA legal bullying
-in [November 2020](https://en.wikipedia.org/wiki/Youtube-dl#RIAA_takedown_request).
-
 ## Not fundable
 These projects can't be funded with traditionally direct donations.
 
@@ -402,6 +395,14 @@ laptops and desktops will happen... when it happens.
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
 * Show symbolic support with $1/month
     * Click on the `SUPPORT POP` button to create a System76 account
+
+### [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
+
+`yt-dlp` is a fork of [`youtube-dl`](https://en.wikipedia.org/wiki/Youtube-dl)
+that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
+recover with respect to software development speed after the RIAA legal bullying
+in [November 2020](https://en.wikipedia.org/wiki/Youtube-dl#RIAA_takedown_request)
+for some reason.
 
 * There is a donation [page](https://github.com/yt-dlp/yt-dlp/blob/master/Collaborators.md#collaborators)
   for main contributing developers, where you can donate to each developer
