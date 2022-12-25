@@ -341,7 +341,7 @@ Linux kernel doesn't matter in Qubes OS.
   people self-sort themselves, as mentioned in the [book](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
   _The Cathedral and the Bazaar_.
 
-# OnionShare
+### [OnionShare](https://onionshare.org/)
 Developed by computer security engineer and journalist at
 [_The Intercept_](https://theintercept.com/staff/micah-lee/)
 [Micah F. Lee](https://micahflee.com/) (the same man who maintains the
