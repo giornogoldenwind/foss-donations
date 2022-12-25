@@ -43,18 +43,17 @@ applies.
 These projects accept direct donations in some shape, fashion, or form.
 
 ### [Aegis](https://getaegis.app/)
-
-Aegis is the best TOTP app on Android for the 6 digit MFA code that changes
-every 30 seconds.  Aegis allows for locally encrypted backups and works with
-Seedvault backups (which is available on GrapheneOS, CalyxOS, and
-LineageOS/DivestOS).
+Aegis is the best [TOTP](https://en.wikipedia.org/wiki/Time-based_one-time_password)
+app on Android (i.e.: read as Google Authenticator compatible) for the 6-digit
+2FA code that changes every 30 seconds.  Aegis allows for locally encrypted
+backups and works with Seedvault backups (which is available on GrapheneOS,
+CalyxOS, and LineageOS/DivestOS).
 
 * Credit card through [Buy Me A Coffee](: https://www.buymeacoffee.com/beemdevelopment)
 * Cryptocurrency methods (Bitcoin... and Nano?  Sorry, I'm mentally too old to
 deal with cryptocurrency coins that aren't egalitarian, such as Monero.)
 
 ### [archive&period;today](https://en.wikipedia.org/wiki/Archive.today)
-
 archive&period;today is the lean and mean alternative to the Wayback Machine.
 There are some sites that archive&period;today won't work on or isn't all that
 helpful, but I can't remember any at the moment.  I do remember that
@@ -75,7 +74,6 @@ the newspaper paywall bypass mentioned earlier can still stand.)
 * PayPal
 
 ### [Bromite](https://www.bromite.org/)
-
 This non-[Tor](https://en.wikipedia.org/wiki/Tor_(network)) browser has
 [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking), so this makes web
 browsing on an Android device more bearable.  (I'm looking at you with contempt,
@@ -92,7 +90,6 @@ mouth and either improve F-Droid or make a better competitor to F-Droid.)
     * Cryptocurrency
 
 ### [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
-
 F-Droid is the first app I install on any new Owner profile on an Android device
 in order to get Droid-ify and Aurora Store.  (Sorry
 [LineageOS for microG](https://lineage.microg.org/) - I can't deal with F-Droid
@@ -117,7 +114,6 @@ mission, I've come to value humane usability over legalist security worship.)
     * [GitHub Sponsors](https://github.com/sponsors/f-droid)
 
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
-
 The alternative Android OS that Snowden recommends, back in
 [2019](https://nitter.lacontrevoie.fr/Snowden/status/1175430722733129729#m)
 before [_Permanent Record_](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography))
@@ -136,7 +132,6 @@ out-of-the-box Pixels.
       * Includes Monero
 
 ### [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-
 Most known for the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine),
 the Internet Archive is similar to Wikipedia in that it runs on a shoestring
 budget, with respect to the service and bandwidth it maintains compared to other
@@ -151,7 +146,6 @@ investigators love the Wayback Machine, so learn to use it if you can't use
       Zcash and Monero (through conversion)
 
 ### [KeePassDX](https://www.keepassdx.com/)
-
 This is the Android version of [KeePass](https://en.wikipedia.org/wiki/KeePass).
 KeePassDX is influenced to be modern, like KeePassXC.  This works great,
 especially if you simply want a copy your KeePassXC database
@@ -165,7 +159,6 @@ or [NFC](https://en.wikipedia.org/wiki/Near-field_communication).
     * PayPal for credit/debit card
 
 ### [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC)
-
 IMHO, KeePassXC is the best local password manager.  It's included in Tails
 (well, the version that Debian Stable is stuck with, which isn't the fault of
 Tails) and looks much better than the Windows native [KeePass](https://en.wikipedia.org/wiki/KeePass).
@@ -183,7 +176,6 @@ Need I need to say more?  (If only SoloKeys could implement
             * Two different accounts for client and browser add-on
 
 ### [Molly](https://molly.im/)
-
 Molly is a security hardened fork of Signal that offers a local message database
 encryption with a separate password (this is why I have to use KeePassXC to use
 a random 128 character password to unlock Molly), a FOSS variant (which avoid
@@ -212,7 +204,6 @@ to do).
     * Cryptocurrency: [Monero](https://molly.im/project/monero/)
 
 ### [Monero](https://www.getmonero.org/)
-
 Monero is an established cryptocurrency that is private by default (with an
 obfuscated blockchain) that has no artificial supply limit (unlike Bitcoin and
 many other cryptocurrency coins) and can be mined by any processor (so, no need
@@ -225,7 +216,6 @@ won't be very high...).
   to resolve this right now...
 
 ### [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
-
 Edward Snowden mentioned using Qubes OS in
 [September 2016](https://nitter.lacontrevoie.fr/Snowden/status/781493632293605376),
 [December 2017](https://nitter.lacontrevoie.fr/Snowden/status/941020119609892864#m),
@@ -241,7 +231,6 @@ hasn't updated since September 2017).
     * Several cryptocurrency options
 
 ### [Signal](https://en.wikipedia.org/wiki/Signal_(software))
-
 Signal has been mentioned by Snowden many, many times - but I'll cover a few.
 The FBI already [knew](https://nitter.lacontrevoie.fr/Snowden/status/661313394906161152#m)
 Snowden uses Signal in November 2015; Snowden had a "regular" 
@@ -261,7 +250,6 @@ Signal isn't perfect - but Tor and Qubes OS are the same.
           is accepted?  Pathetic!
 
 ### [SoloKeys](https://solokeys.com/)
-
 SoloKeys is an open-source hardware security key for
 [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication), which is for
 the older U2F protocol or the newer FIDO2 protcol of [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn).
