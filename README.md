@@ -285,8 +285,7 @@ those in the U.S. and North America.
 ## Not fundable
 These projects can't be funded with traditional direct donations.
 
-# Alpine Linux
-
+# [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux)
 Alpine Linux is a "darn small" Linux distribution, even more so on a technical
 level than the default Arch Linux install.  The only shortcomings of Alpine is
 that there aren't a lot of packages to choose from and there's nothing analogous
@@ -309,7 +308,6 @@ frequently use.
   [GitHub Sponsors](https://github.com/sponsors/xobs)
 
 ### [Droid-ify](https://github.com/Iamlooker/Droid-ify)
-
 Droid-ify installs F-Droid repository apps without any permissions - unlike
 F-Droid.  F-Droid isn't perfect by any means, but Droid-ify improves the UI and
 UX of F-Droid.  Still, Droid-ify doesn't fix any of the fundamental issues of
@@ -325,7 +323,6 @@ F-Droid repo like actual adults, then I can manage my decision as as adult as
 well.)
 
 ### [LibreWolf](https://librewolf.net/)
-
 I have never used the `user.js` profile from [Arkenfox](https://github.com/arkenfox/user.js/wiki),
 because I previously depended on the prior Firefox hardening guide from Privacy
 Guides (which was carried over from the Privacy Tools days).  Then, when this
@@ -342,7 +339,6 @@ it has all of the privacy "tweaks" one has to manually perform anyways on
 "vanilla" Firefox.
 
 ### [System76](https://en.wikipedia.org/wiki/System76)
-
 System76 is one of the most pragmatic "I need a solution right now" for computer
 hardware that is manufactured (as much as possible now) and assembled in the
 U.S., compared to other large corporations making laptops in Asia.  (I'm looking
@@ -406,11 +402,15 @@ laptops and desktops will happen... when it happens.
 * Buy System76 [hardware](https://system76.com/) for the most direct support
 
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
+Pop!\_OS is System76's Ubuntu-based Linux distribution, which fixes many things
+(with respect to software engineering and aesthetics) wrong with Ubuntu.
+Eventually System76 will put its in-house designed COSMIC desktop environment on
+Pop!\_OS in 2023 - so, at least I have something to look forward to in 2023.
+
 * Show symbolic support with $1/month
     * Click on the `SUPPORT POP` button to create a System76 account
 
 ### [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
-
 `yt-dlp` is a fork of [`youtube-dl`](https://en.wikipedia.org/wiki/Youtube-dl)
 that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
 recover with respect to software development speed after the RIAA legal bullying
