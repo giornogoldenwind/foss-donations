@@ -285,6 +285,19 @@ those in the U.S. and North America.
 ## Not fundable
 These projects can't be funded with traditional direct donations.
 
+# Alpine Linux
+
+Alpine Linux is a "darn small" Linux distribution, even more so on a technical
+level than the default Arch Linux install.  The only shortcomings of Alpine is
+that there aren't a lot of packages to choose from and there's nothing analogous
+to the AUR for Pacman distributions closer to Arch Linux than Parabola or
+Hyperbola.  Alpine is used to run Docker images - if that is a tool you
+frequently use.
+
+* Alpine Linux has corporate [sponsors](https://www.alpinelinux.org/sponsors/)
+* Alpine Linux has list of actions one can do to [support](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Contribute) the project
+* Alpine Linux has a page (likely incomplete) of main [developers](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Developers) you may directly donate funds to
+
 ### [Betrusted](https://betrusted.io/)
 * Contributing code back to Betrusted on [GitHub](https://github.com/betrusted-io)
   and debugging both [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
