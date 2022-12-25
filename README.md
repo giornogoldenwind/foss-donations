@@ -190,9 +190,9 @@ For more info, see the 2022 Signal Configuration and Hardening Guide from
 (which will probably be moved in the next two weeks to effectively remove all
 mentions of GitHub's "front end" with respect to contributors, even though you
 can't get rid of all of the contribution history for the
-[site](https://github.com/privacyguides/privacyguides.org/graphs/contributors)
-and the [blog](https://github.com/privacyguides/blog.privacyguides.org/graphs/contributors)
-- until the Privacy Guides team eventually does exactly that by moving everything
+[site](https://github.com/privacyguides/privacyguides.org/graphs/contributors) -
+and the [blog](https://github.com/privacyguides/blog.privacyguides.org/graphs/contributors) -
+until the Privacy Guides team eventually does exactly that by moving everything
 to a new repository to do exactly what I thought those people would never dare
 to do).
 
