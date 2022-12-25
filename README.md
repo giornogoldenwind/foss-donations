@@ -211,6 +211,19 @@ to do).
     * [Open Collective](https://opencollective.com/mollyim)
     * Cryptocurrency: [Monero](https://molly.im/project/monero/)
 
+# Monero
+
+Monero is an established cryptocurrency that is private by default (with an
+obfuscated blockchain) that has no artificial supply limit (unlike Bitcoin and
+many other cryptocurrency coins) and can be mined by any processor (so, no need
+to hoard GPUs in server farms or specialized processors just to mine Monero -
+so, yes: your `X86_64` laptop can mine Monero, though IRL the speed honestly
+won't be very high...).
+
+* [Donate](https://ccs.getmonero.org/donate/) Monero to the Monero Project: so,
+  yes: there seems to be a "chicken and egg" issue here, but it's not my place
+  to resolve this right now...
+
 ### [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
 
 Edward Snowden mentioned using Qubes OS in
