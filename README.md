@@ -289,11 +289,6 @@ that avoids the worldwide rate limiting, since `youtube-dl` didn't seem to
 recover with respect to software development speed after the RIAA legal bullying
 in [November 2020](https://en.wikipedia.org/wiki/Youtube-dl#RIAA_takedown_request).
 
-* There is a donation [page](https://github.com/yt-dlp/yt-dlp/blob/master/Collaborators.md#collaborators)
-  for main contributing developers, where you can donate to each developer
-  individually. This is a bit more difficult to figure out how to distribute
-  funds, but it can be done if one is sufficiently motivated to do so.
-
 ## Not fundable
 These projects can't be funded with traditionally direct donations.
 
@@ -407,3 +402,9 @@ laptops and desktops will happen... when it happens.
 #### [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS)
 * Show symbolic support with $1/month
     * Click on the `SUPPORT POP` button to create a System76 account
+
+* There is a donation [page](https://github.com/yt-dlp/yt-dlp/blob/master/Collaborators.md#collaborators)
+  for main contributing developers, where you can donate to each developer
+  individually. This is a bit more difficult to figure out how to distribute
+  funds, but it can be done if one is sufficiently motivated to do so.
+
