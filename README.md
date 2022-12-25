@@ -211,7 +211,7 @@ to do).
     * [Open Collective](https://opencollective.com/mollyim)
     * Cryptocurrency: [Monero](https://molly.im/project/monero/)
 
-# Monero
+### [Monero](https://www.getmonero.org/)
 
 Monero is an established cryptocurrency that is private by default (with an
 obfuscated blockchain) that has no artificial supply limit (unlike Bitcoin and
