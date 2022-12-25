@@ -18,7 +18,9 @@ Some general guidelines:
 * This is the order of credit/debit card donations:
     * Direct (sort of rare, especially tax deductible)
     * [Open Collective](https://opencollective.com/), which is tax deductible
-    * [Liberapay](https://en.wikipedia.org/wiki/Liberapay), which is tax deductible
+      but has transaction fees
+    * [Liberapay](https://en.wikipedia.org/wiki/Liberapay), which is tax
+      deductible but has transaction fees
     * [GitHub Sponsors](https://en.wikipedia.org/wiki/GitHub#GitHub_Sponsors),
       which is not tax deductible but at least covers the transaction fees so
       that recipients keep the full donation amount
@@ -325,6 +327,15 @@ auto-update?)  Anyways, LibreWolf [doesn't](https://librewolf.net/docs/faq/#why-
 accept donations, but at least readers can spread the word about LibreWolf - as
 it has all of the privacy "tweaks" one has to manually perform anyways on
 "vanilla" Firefox.
+
+### [`linux-hardened`](https://github.com/anthraxx/linux-hardened): the hardened Linux kernel
+This is the hardened version of the Linux kernel.  Currently, this is only of
+interest to me if I had to install Arch Linux on bare metal - as there I haven't
+figured out a reliable method for Pop!\_OS to completely stop installing the
+generic Linux kernel and requiring it as a system dependency; and the hardened
+Linux kernel doesn't matter in Qubes OS.
+
+* ArchWiki [info](https://wiki.archlinux.org/title/Security#Kernel_hardening)
 
 ### [System76](https://en.wikipedia.org/wiki/System76)
 System76 is one of the most pragmatic "I need a solution right now" for computer
