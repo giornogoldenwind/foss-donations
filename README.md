@@ -41,6 +41,21 @@ certain software or hardware listed here, then I will mention that fact when
 applicable and appropriate.  I also use these with my own money, if price
 applies.
 
+### Other informational tangent
+I want to donate to as many open source software projects (and adjacent ones) as
+much as possible.  Figuratively, I've been seeing the writing on the wall to
+donate to FOSS projects for some time now.  Slowly but eventually, I've come to
+the inevitable personal decision that I have to at least donate some money to
+all of the FOSS projects I've benefited from.  However, there are many more than
+I can remember in my mental memory (which fails for most lists longer than 5
+items), so I'm putting them here.  Also, this isn't my only call to action to
+donate, but I've seen a call to do so in February 2022 from
+[Techlore](https://www.youtube.com/watch?v=RbSy-lZHLYw), as an example (before I
+became extremely bored with Henry's videos, as his co-hosted Surveillance
+Report podcast is much better than his own channel's videos right now in late
+2022 - and now I'm even starting to simply skim Surveillance Report URL lists,
+instead of actually listening to the 30 minute or longer episodes now).
+
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
