@@ -273,7 +273,7 @@ those in the U.S. and North America.
 ## Not fundable
 These projects can't be funded with traditional direct donations.
 
-# [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux)
+### [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux)
 Alpine Linux is a "darn small" Linux distribution, even more so on a technical
 level than the default Arch Linux install.  The only shortcomings of Alpine is
 that there aren't a lot of packages to choose from and there's nothing analogous
