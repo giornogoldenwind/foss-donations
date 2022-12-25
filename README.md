@@ -70,6 +70,28 @@ CalyxOS, and LineageOS/DivestOS).
 * Cryptocurrency methods (Bitcoin... and Nano?  Sorry, I'm mentally too old to
 deal with cryptocurrency coins that aren't egalitarian, such as Monero.)
 
+### [antiX Linux](https://en.wikipedia.org/wiki/AntiX)
+AntiX is interesting, as it is one of the few current Debian-based Linux
+distributions that still supports 32-bit architecture computers when its
+upstream Linux parent Debian only has 32-bit support out of obligation and
+desktop Ubuntu has dropped 32-bit support since 2017-2018.  Be mature and ignore
+the visible anti-fascist messaging, or just don't use this if you're not mature
+enough to handle differences in ideology.  (Clearly more than 90% of American
+politicians are incapable of this - no wonder why the U.S. government can't
+achieve anything nowadays.  Maybe Plato was correct and we should conscript
+government leaders, instead of electing them.)
+
+* Donate prompt at bottom of [homepage](https://antixlinux.com/)
+    * Credit/debit card through PayPal
+
+### [Arch Linux](https//en.wikipedia.org/wiki/Arch_Linux)
+...
+
+* Donate [page](https://archlinux.org/donate/)
+    * Credit/debit card
+* Arch Linux also has commercial sponsors and contributors
+    * Most notable is Nitrokey
+
 ### [archive&period;today](https://en.wikipedia.org/wiki/Archive.today)
 archive&period;today is the lean and mean alternative to the Wayback Machine.
 There are some sites that archive&period;today won't work on or isn't all that
@@ -159,29 +181,13 @@ the gist.)
           notifications - you'll need to manually open the app as before or
           during the activation of the Duo prompt)
 
-### [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
-F-Droid is the first app I install on any new Owner profile on an Android device
-in order to get Droid-ify and Aurora Store.  (Sorry
-[LineageOS for microG](https://lineage.microg.org/) - I can't deal with F-Droid
-being installed as a privileged app anymore, as this will interfere with
-Droid-ify.)  At least if I am setting up an Android device "in the woods", with
-none of my current electronic belongings, then I will have to install F-Droid
-after verifying the PGP signature on Linux (otherwise, if I skipped that, then I
-would be ok with downloading Droid-ify straight from GitHub with no
-verification).  (Call me stupidly stubborn, but this is why I have no sympathy
-for you when you [tell](https://www.youtube.com/watch?v=FFz57zNR_M0) people
-online to use an RSS feed reader to update Android apps, but ignore the fact
-that every other person who just wants to live life will already be overwhelmed
-when you even set up a GrapheneOS phone on their behalf with respect to usability.
-Just like how [Kakashi](https://en.wikipedia.org/wiki/Kakashi_Hatake) from
-_Naruto_ ultimately learned to value the lives of his teammates over any given
-mission, I've come to value humane usability over legalist security worship.)
+### [Debian](https://en.wikipedia.org/wiki/Debian)
+...
 
-* [Info pate](https://f-droid.org/en/donate/)
-    * [Open Collective](https://opencollective.com/f-droid) (for USD donations)
-        * There's a different collective for [EUR](https://opencollective.com/f-droid-euro)
-    * [Liberapay](https://liberapay.com/F-Droid-Data/)
-    * [GitHub Sponsors](https://github.com/sponsors/f-droid)
+* Donation [page](https://www.debian.org/donations)
+    * Credit/debit card
+        * PayPal
+    * __No__ cryptocurrencies (interesting, as of December 2022)
 
 ### [DivestOS](https://en.wikipedia.org/wiki/DivestOS)
 DivestOS is a true soft fork of LineageOS, which attempts to offer the option to
@@ -206,6 +212,54 @@ Archive, and Tails - in no particular order.)
     * Liberapay
     * Cryptocurrency (Bitcoin and Monero)
 
+### [elementary OS](https://en.wikipedia.org/wiki/Elementary_OS)
+...
+
+* Donation prompt is alongside the "Download" prompt on the [homepage](https://elementary.io/)
+    * However, you can bypass this by entering $0, as this works on a "Pay What
+      You Can" model
+    * Though you should certainly donate if you have the money - there's no
+      excuse
+
+### [EndeavourOS](https://en.wikipedia.org/wiki/EndeavourOS)
+...
+
+* Donation [page](https://endeavouros.com/donate/)
+    * Credit/debit card through Open Collective
+
+### [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
+F-Droid is the first app I install on any new Owner profile on an Android device
+in order to get Droid-ify and Aurora Store.  (Sorry
+[LineageOS for microG](https://lineage.microg.org/) - I can't deal with F-Droid
+being installed as a privileged app anymore, as this will interfere with
+Droid-ify.)  At least if I am setting up an Android device "in the woods", with
+none of my current electronic belongings, then I will have to install F-Droid
+after verifying the PGP signature on Linux (otherwise, if I skipped that, then I
+would be ok with downloading Droid-ify straight from GitHub with no
+verification).  (Call me stupidly stubborn, but this is why I have no sympathy
+for you when you [tell](https://www.youtube.com/watch?v=FFz57zNR_M0) people
+online to use an RSS feed reader to update Android apps, but ignore the fact
+that every other person who just wants to live life will already be overwhelmed
+when you even set up a GrapheneOS phone on their behalf with respect to
+usability.  Just like how [Kakashi](https://en.wikipedia.org/wiki/Kakashi_Hatake)
+from _Naruto_ ultimately learned to value the lives of his teammates over any
+given mission, I've come to value humane usability over legalist security
+worship.)
+
+* [Info page](https://f-droid.org/en/donate/)
+    * [Open Collective](https://opencollective.com/f-droid) (for USD donations)
+    * There's a different collective for [EUR](https://opencollective.com/f-droid-euro)
+* [Liberapay](https://liberapay.com/F-Droid-Data/)
+* [GitHub Sponsors](https://github.com/sponsors/f-droid)
+
+### [FlorisBoard](https://florisboard.org/)
+...
+
+* Credit/debit card
+    * GitHub Sponsors for the lead developer [Patrick Gold](https://github.com/sponsors/patrickgold)
+    * Liberapay for Patrick Gold
+    * PayPal for Patrick Gold
+
 ### [FreeTube](https://freetubeapp.io)
 FreeTube is an Electron-based YouTube client that lets you watch YouTube videos
 and keep track of public YouTube channels without signing into a Google account
@@ -228,6 +282,18 @@ to have the same feature.
 * Donation [page](https://freetubeapp.io/#donate)
     * Liberapay
     * Cryptocurrency: Bitcoin and Monero
+
+### [Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux)
+...
+
+* Donate [page](https://www.gentoo.org/donate/)
+    * Credit/debit card through PayPal
+
+### [GhostBSD](https://en.wikipedia.org/wiki/GhostBSD)
+...
+
+* Donate [page](https://www.ghostbsd.org/donate)
+    * Credit/debit card through PayPal
 
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 The alternative Android OS that Snowden recommends, back in
@@ -313,6 +379,14 @@ least it will be hopefully projected to have GrapheneOS support.
     * [PayPal](https://www.paypal.com/paypalme/LineageOS)
     * [Patreon](https://www.patreon.com/LineageOS)
 
+### [Manjaro](https://en.wikipedia.org/wiki/Manjaro)
+...
+
+* Donation [page](https://manjaro.org/donate/)
+    * Credit/debit card
+        * Open Collective
+        * Distinction between "normal" `X86_64` and ARM teams
+
 ### [Molly](https://molly.im/)
 Molly is a security hardened fork of Signal that offers a local message database
 encryption with a separate password (this is why I have to use KeePassXC to use
@@ -352,6 +426,18 @@ won't be very high...).
 * [Donate](https://ccs.getmonero.org/donate/) Monero to the Monero Project: so,
   yes: there seems to be a "chicken and egg" issue here, but it's not my place
   to resolve this right now...
+
+### [Parrot OS](https://en.wikipedia.org/wiki/Parrot_OS)
+...
+
+* Donate [page](https://parrotsec.org/donate/)
+    * Credit/debit card
+        * PayPal
+        * Patreon
+    * Cryptocurrencies (including Zcash, but no Monero)
+    * Parrot Security Shop
+        * but the language is in Italian?
+    * Referral links
 
 ### [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
 Edward Snowden mentioned using Qubes OS in
@@ -444,6 +530,13 @@ building `vscodium` package like me - instead, just use the binary
 * Donate Bitcoin: https://github.com/VSCodium/vscodium#donate
     * There doesn't seem to be any other method of donating to VSCodium so far
 
+### [Whonix](https://en.wikipedia.org/wiki/Whonix)
+...
+
+* Donate [page](https://www.whonix.org/wiki/Donate)
+    * Credit/debit card through PayPal
+    * Cryptocurrency (including Monero)
+
 ### [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 * [Donation page](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en)
     * This happens to be the English language and US country page
@@ -489,6 +582,13 @@ Michael Bazzell pays no mind to that group and Neo Store's UI feels as cluttered
 itself.  (If Molly lets its users decide between using the auto-updater and the
 F-Droid repo like actual adults, then I can manage my decision as as adult as
 well.)
+
+### Kali Linux
+...
+
+* Contribution [page](https://www.kali.org/docs/community/contribute/)
+    * No donations, since [Offensive Security](https://en.wikipedia.org/wiki/Offensive_Security)
+      funds Kali Linux
 
 ### [LibreWolf](https://librewolf.net/)
 I have never used the `user.js` profile from [Arkenfox](https://github.com/arkenfox/user.js/wiki),
