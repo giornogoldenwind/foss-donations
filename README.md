@@ -336,6 +336,21 @@ generic Linux kernel and requiring it as a system dependency; and the hardened
 Linux kernel doesn't matter in Qubes OS.
 
 * ArchWiki [info](https://wiki.archlinux.org/title/Security#Kernel_hardening)
+* I suppose the most significant contribution is to maintain the code - if you
+  have the relevant skills.  To be honest, this is the type of project where
+  people self-sort themselves, as mentioned in the [book](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+  _The Cathedral and the Bazaar_.
+
+# OnionShare
+Developed by computer security engineer and journalist at
+[_The Intercept_](https://theintercept.com/staff/micah-lee/)
+[Micah F. Lee](https://micahflee.com/) (the same man who maintains the
+[`torbrowser-launcher`](https://github.com/micahflee/torbrowser-launcher) for
+Linux distributions), you can share files over Tor with OnionShare.  There are
+some other features, but those are more advanced than file sharing.
+
+* Contributing back to its code on GitHub is the most effective way to help
+  OnionShare.
 
 ### [System76](https://en.wikipedia.org/wiki/System76)
 System76 is one of the most pragmatic "I need a solution right now" for computer
