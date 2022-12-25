@@ -281,6 +281,36 @@ those in the U.S. and North America.
 * Credit/debit card via [GitHub Sponsors](https://github.com/sponsors/solokeys)
     * Though the most effective support is buying SoloKeys or contributing code
 
+### [Tails](https://tails.boum.org/)
+[Praised](https://nitter.1d4.us/Snowden/status/1165297667490103302#m) by Snowden
+for a long time, Tails is a solid tool that is an entire OS that forces all web
+traffic through Tor and is much easier to use than Qubes with Whonix (if you're
+ok with turning off your computer and understanding the implications of the
+security and threat model of Tails - while not rocket science, this takes some
+getting used to).
+
+* Donation [page](https://tails.boum.org/donate/)
+    * Credit/debit card
+    * Cryptocurrency (including Monero)
+
+### [Tor Project](https://www.torproject.org/)
+The Tor Project maintains the Tor Browser, which Snowden has regularly
+[praised](https://blog.torproject.org/what-tor-supporter-looks-edward-snowden/).
+Honestly, if it's safe for you to use Tor, use Tor Browser at least once a week
+to do general web browsing not requiring login accounts to help users depending
+on Tor users to blend in - if everyone claims to be
+["Spartacus"](https://en.wikipedia.org/wiki/Spartacus_(film)#%22I'm_Spartacus!%22),
+then mass surveillance is rendered useless.  Though to be clear, using Tor
+Browser is almost never as enjoyable as using a browser better suited for
+clearnet/VPN web browsing.
+
+* Donate [page](https://donate.torproject.org/)
+    * Credit/debit card
+    * Cryptocurrency (including Monero): https://donate.torproject.org/cryptocurrency/
+        * which you can be truly anonymous (at least Monero with respect to
+          transaction metadata) and give no other PII for cryptocurrency
+          donations
+
 ### [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 * [Donation page](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en)
     * This happens to be the English language and US country page
