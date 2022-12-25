@@ -106,6 +106,59 @@ mouth and either improve F-Droid or make a better competitor to F-Droid.)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
     * Cryptocurrency
 
+### [CalyxOS](https://calyxos.org/) and the [Calyx Institute](https://en.wikipedia.org/wiki/Calyx_Institute)
+[Nicholas Merrill](https://en.wikipedia.org/wiki/Nicholas_Merrill) is really one
+of the few Americans not sleeping on the consequences of the Patriot Act after
+the 9/11 attacks, trying to fight the good fight to preserve civil liberties.
+Just take a quick glance at the respective sections for news from the ACLU, the
+EFF, and the Freedom of the Press Foundation and you'll quickly see attacks on
+civil liberties post-9/11 every single day.  Though out of scope for this
+"listicle", the future could be very dark if we wait around for the government
+to [(not) save](https://mises.org/library/anatomy-state) us like
+[Superman](https://en.wikipedia.org/wiki/Waiting_for_%22Superman%22) with
+legislation the people actually need.  (Did you not play
+[_Injustice 2_](https://en.wikipedia.org/wiki/Injustice_2)?.) Anyways, I'm
+putting CalyxOS here out of obligation, but not because I personally am
+benefited from CalyxOS directly.  In this case, it's always good to have options
+for alternative Android OS's, even if I feel like CalyxOS's software engineering
+severely lags behind that of GrapheneOS.  However, although I cannot speak to
+the Calyx Institute's work with essentially consulting with other NGOs on safe
+internet usage, I think the Calyx Institute membership mobile 4G/5G Wi-Fi
+hotspot is one of the few ways to obtain any form of ISP service with any
+semblance of privacy post 2022.  If I have a _Mr. Robot_-inspired TV show, then
+I'd definitely use the Calyx Institute mobile Wi-Fi hotspot for the Darlene
+Alderson-inspired nomadic cracker character.  (Obviously this hotspot wouldn't
+be activated near sleeping locations and sensitive opsec locations, but you get
+the gist.)
+
+* One-time donation to the Calyx Institute: https://calyxinstitute.org/donate
+* Internet Membership: https://calyxinstitute.org/membership/internet
+    * A really good mobile 4G/5G Wi-Fihotspot, especially if you live a nomadic
+      life
+    * Calyx Institute shines as a lawful good NGO performing social good
+      services (for example, it runs Tor relays)
+* CalyxOS Membership: https://calyxinstitute.org/membership/calyxos
+    * Seems very expensive - not to be a moralistic gatekeeper, but you as a
+      reader are definitely capable of installing CalyxOS if you've found
+      CalyxOS on your own and thus save lots of money by simply installing
+      CalyxOS yourself (use the web browser if you have more relaxed security
+      posture - I can't remember if CalyxOS ever put back the manual CLI
+      installation instructions back)
+        * Also, I feel like CalyxOS doesn't have much of a value proposition
+          over GrapheneOS if your target install device is a currently OEM
+          supported Pixel device still within Google's official timeframe; and
+          only marginally so for all of the non-Pixel CalyxOS devices.  However,
+          I do acknowledge that I've had a extremely Google Play Services and
+          proprietary Android app "vegan" opsec mentality with my phone since
+          2019 - so I can live very well cutting out Google Play Services from
+          my Android phone without severe IRL usability consequences.  I'm
+          pretty sure Slack [works](https://plexus.techlore.tech/applications/slack)
+          without Google Play Services, but I happen to have it installed (on a
+          secondary user profile) with Duo Mobile that absolutely needs
+          [sandboxed]() Google Play Services to work (but without any push
+          notifications - you'll need to manually open the app as before or
+          during the activation of the Duo prompt)
+
 ### [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
 F-Droid is the first app I install on any new Owner profile on an Android device
 in order to get Droid-ify and Aurora Store.  (Sorry
@@ -129,6 +182,52 @@ mission, I've come to value humane usability over legalist security worship.)
         * There's a different collective for [EUR](https://opencollective.com/f-droid-euro)
     * [Liberapay](https://liberapay.com/F-Droid-Data/)
     * [GitHub Sponsors](https://github.com/sponsors/f-droid)
+
+### [DivestOS](https://en.wikipedia.org/wiki/DivestOS)
+DivestOS is a true soft fork of LineageOS, which attempts to offer the option to
+relock the bootloader on select devices if the user wishes to do so.  (If you're
+seeing reports that relocking is not possible or irreversible, such as for the
+OnePlus One; then I would say it's not worth bothering to relock the bootloader
+for that particular device.)  I think it ports the hardened memory allocator
+`hmalloc` from GrapheneOS.  However, I still view DivestOS in the same way as
+LineageOS: good to give back some extended life beyond official OEM support to
+various Android phones, but not comparable for absolute impeccable adherence to
+upstream security patches like GrapheneOS.  For those who truly want to invest
+in security, DivestOS is a stopgap measure for you to hold out while obtaining a
+currently supported GrapheneOS device.  Regardless, I see the "value
+proposition" (not to be super corporate-y) of DivestOS... but also I cannot
+comprehend how all of these devices can be maintained by a single person.  Yes,
+DivestOS is a one-person downstream project running on a shoestring budget.
+(Also somewhat similarly true of Wikipedia, the Tor Project, the Internet
+Archive, and Tails - in no particular order.)
+
+* Donation [page](https://divested.dev/index.php?page=donate) of lead developer
+    * Credit/debit card
+    * Liberapay
+    * Cryptocurrency (Bitcoin and Monero)
+
+### [FreeTube](https://freetubeapp.io)
+FreeTube is an Electron-based YouTube client that lets you watch YouTube videos
+and keep track of public YouTube channels without signing into a Google account
+on your browser, watching YouTube on the browser on the rather slowly loading
+`youtube.com` website, or even Invidious.  (However, if there are Invidious
+issues affecting all Invidious instances, then FreeTube will inherit those same
+playback issues, as I've causally observed.  For example, if subtitles aren't
+working on all Invidious instances, then subtitles also won't work on FreeTube.)
+YouTube's suggestion algorithm seems to keep working, even if you're using a
+VPN, since the YouTube site tracks users via browser fingerprinting - which is a
+deeper issue outside of the scope of my ever flawed evaluator armchair
+assessment of YouTube as a whole.  I even believe this fingerprinting occurs on
+Invidious - but to a lesser extent.  Actually, I'm hypothesizing that unless you
+use FreeTube behind a VPN, then tracking via fingerprinting still happens on
+FreeTube - unless you simply disable suggestions entirely in FreeTube's
+distraction-free settings.  I follow enough YouTube channels to have my own
+self-curated "click hole" and I don't need YouTube's algorithmically generated
+to have the same feature.
+
+* Donation [page](https://freetubeapp.io/#donate)
+    * Liberapay
+    * Cryptocurrency: Bitcoin and Monero
 
 ### [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 The alternative Android OS that Snowden recommends, back in
@@ -191,6 +290,28 @@ Need I need to say more?  (If only SoloKeys could implement
             * But only individual pages for the three lead developers
         * Patreon
             * Two different accounts for client and browser add-on
+
+### [LineageOS](https://en.wikipedia.org/wiki/LineageOS)
+This was my first "real" custom Android OS, so there's some sentimental value
+for me when it comes to looking back at LineageOS.  (Technically, I used a
+OnePlus One with CyanogenMod, until CyanogenMod shut down.
+CyanogenMod/LineageOS 13 for Android 6 was definitely a dark age, but LOS was
+basically fine to use LineageOS 14/Android 7 or LineageOS 15/Android 8 came
+out.)  However, in 2022 and afterward, I've only depended on LineageOS
+(specifically the microG unofficial fork) for the Samsung Galaxy Tab S6 Lite -
+but I'm slowly discovering that Samsung figuratively forces you to bend your
+back three times and hop through five and a half hoops to install a custom
+Android OS with a bootloader that can never be relocked, thanks to the
+[e-Fuse](https://en.wikipedia.org/wiki/Samsung_Knox#e-Fuse) from Samsung
+[Knox](https://en.wikipedia.org/wiki/Samsung_Knox) security - thank you Samsung,
+I hate this.  Anyways, although the Pixel Tablet lacks an audio jack, I've
+almost always at risk of accidentally making it fall or break by pulling on any
+audio jack device plugged into my tablet and thus destroying the tablet; but at
+least it will be hopefully projected to have GrapheneOS support.
+
+* Donation info on every page's footer, but small and hard to find:
+    * [PayPal](https://www.paypal.com/paypalme/LineageOS)
+    * [Patreon](https://www.patreon.com/LineageOS)
 
 ### [Molly](https://molly.im/)
 Molly is a security hardened fork of Signal that offers a local message database
@@ -311,6 +432,18 @@ clearnet/VPN web browsing.
           transaction metadata) and give no other PII for cryptocurrency
           donations
 
+### [VSCodium](https://vscodium.com/)
+VSCodium is a [fork](https://en.wikipedia.org/wiki/Visual_Studio_Code#Forks) of
+Visual Studio Code that remove's Microsoft's first-party telemetry.  Yes, even
+Big Tech has to ruin FOSS, and it's always up to the hacker community to push
+back against the Big Tech vectoralists.  (If you use the AUR on your compatible
+Pacman-based distribution, then don't be a weirdo like me and use the source
+building `vscodium` package like me - instead, just use the binary
+`vscodium-bin` package.)
+
+* Donate Bitcoin: https://github.com/VSCodium/vscodium#donate
+    * There doesn't seem to be any other method of donating to VSCodium so far
+
 ### [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 * [Donation page](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en)
     * This happens to be the English language and US country page
@@ -385,6 +518,30 @@ Linux kernel doesn't matter in Qubes OS.
   have the relevant skills.  To be honest, this is the type of project where
   people self-sort themselves, as mentioned in the [book](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
   _The Cathedral and the Bazaar_.
+
+### [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)
+
+The Linux kernel is the colloquial "engine" that powers Linux.  We don't need to
+do the whole Richard Stallman "GNU+Linux" thing, though Linux is analogous to
+only the engine of a car and nothing else.  However, I am hesitant to stick
+steadfast with the GNU Utils (or any other window manager/desktop environment as
+the graphical interface), since there are people with legitimate needs
+reimplementing the GNU Core Utilities and the GNU C Library and all that
+technical jazz.  Let's just be pragmatic and just use "Linux" to refer to Linux
+distributions - as anything else GNU or otherwise to make the OS livable, just
+like seating and the rest of a car, is created to support the Linux kernel.
+
+* [Homepage](https://kernel.org/)
+* There are many people working on the Linux kernel, but feel free to contribute
+  code for the most impactful contribution back to the Linux kernel, if you have
+  the skill and know-how (I know - this is a "the chicken or the egg" problem,
+  but it's the best I have right now)
+* This is the day job of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+  and many others to develop and maintain the latest/current stable version -
+  including [Greg Kroah-Hartman](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman),
+  who maintains the current/stable the Linux kernel.  So, as of late December
+  2022, the latest versions are either 6.1 or 6.0.
+
 
 ### [OnionShare](https://onionshare.org/)
 Developed by computer security engineer and journalist at
