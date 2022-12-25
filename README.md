@@ -565,6 +565,8 @@ frequently use.
 * Alpine Linux has a page (likely incomplete) of main [developers](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Developers) you may directly donate funds to
 
 ### [Betrusted](https://betrusted.io/)
+...
+
 * Contributing code back to Betrusted on [GitHub](https://github.com/betrusted-io)
   and debugging both [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
   and [Xous](https://xous.dev/) is most effective
