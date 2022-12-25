@@ -59,6 +59,12 @@ instead of actually listening to the 30 minute or longer episodes now).
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
+### [Accrescent](https://accrescent.app/)
+...
+
+* Credit/debit card
+    * GitHub Sponsors for the lead [developer](https://github.com/sponsors/lberrymage)
+
 ### [Aegis](https://getaegis.app/)
 Aegis is the best [TOTP](https://en.wikipedia.org/wiki/Time-based_one-time_password)
 app on Android (i.e.: read as Google Authenticator compatible) for the 6-digit
