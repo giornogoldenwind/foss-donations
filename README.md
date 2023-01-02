@@ -90,7 +90,7 @@ deal with cryptocurrency coins that aren't egalitarian, such as Monero.)
 
 ### [antiX Linux](https://en.wikipedia.org/wiki/AntiX)
 AntiX is interesting, as it is one of the few current Debian-based Linux
-distributions that still supports 32-bit architecture computers when its
+distributions that voluntarily supports 32-bit architecture computers when its
 upstream Linux parent Debian only has 32-bit support out of obligation and
 desktop Ubuntu has dropped 32-bit support since 2017-2018.  Be mature and ignore
 the visible anti-fascist messaging, or just don't use this if you're not mature
@@ -103,10 +103,27 @@ government leaders, instead of electing them.)
     * Credit/debit card through PayPal
 
 ### [Arch Linux](https//en.wikipedia.org/wiki/Arch_Linux)
-...
+Arch Linux is a do-it-yourself Linux distribution, though realistically most
+people don't go too crazy with their respective Arch Linux installs.  Arch Linux
+comes with `systemd`, but the [init](https://en.wikipedia.org/wiki/Init) system
+can be replaced with [another](https://wiki.archlinux.org/title/Init), though
+this isn't really official (and you're better off installing
+[Artix Linux](https://en.wikipedia.org/wiki/Artix_Linux) if you want to be
+`systemd`-free).  Of course, being `systemd`-free doesn't matter because of the
+Arch Linux community [template](https://github.com/Qubes-Community/Contents/blob/master/docs/building/building-archlinux-template.md)
+for Qubes OS.  As we say in yoga, if Arch Linux is feasible and compatible with
+your practice (i.e., realistically achievable with your current tradecraft),
+then go for Arch Linux - it's definitely an experience to remember, even if you
+only do it once on bare metal.  Arch Linux would definitely be one of the ideal
+Linux distros for me to install the `linux-hardened` kernel on, without 
+compiling the `linux-hardened` kernel itself (no hate on Gentoo).
 
 * Donate [page](https://archlinux.org/donate/)
     * Credit/debit card
+        * As a word of advice, be careful of the name you choose when donating
+          with a credit card - your name will be forever be displayed as a
+          donor, if you're the type that wants to be a privacy, security, and
+          anonymity extremist like Michael Bazzell.
 * Arch Linux also has commercial sponsors and contributors
     * Most notable is Nitrokey
 
