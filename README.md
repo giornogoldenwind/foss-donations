@@ -262,17 +262,18 @@ relock the bootloader on select devices if the user wishes to do so.  (If you're
 seeing reports that relocking is not possible or irreversible, such as for the
 OnePlus One; then I would say it's not worth bothering to relock the bootloader
 for that particular device.)  I think it ports the hardened memory allocator
-`hmalloc` from GrapheneOS.  However, I still view DivestOS in the same way as
-LineageOS: good to give back some extended life beyond official OEM support to
-various Android phones, but not comparable for absolute impeccable adherence to
-upstream security patches like GrapheneOS.  For those who truly want to invest
-in security, DivestOS is a stopgap measure for you to hold out while obtaining a
+[`hardened_malloc`](https://github.com/GrapheneOS/hardened_malloc) from
+GrapheneOS.  However, I still view DivestOS in the same way as LineageOS: good
+to give back some extended life beyond official OEM support to various Android
+phones, but not comparable for absolute impeccable adherence to upstream
+security patches like GrapheneOS.  For those who truly want to invest in
+security, DivestOS is a stopgap measure for you to hold out while obtaining a
 currently supported GrapheneOS device.  Regardless, I see the "value
 proposition" (not to be super corporate-y) of DivestOS... but also I cannot
-comprehend how all of these devices can be maintained by a single person.  Yes,
-DivestOS is a one-person downstream project running on a shoestring budget.
-(Also somewhat similarly true of Wikipedia, the Tor Project, the Internet
-Archive, and Tails - in no particular order.)
+psychologically comprehend how all of these devices can be maintained by a
+single person.  Yes, DivestOS is a one-person downstream project running on a
+shoestring budget.  (Also somewhat similarly true of Wikipedia, the Tor Project,
+the Internet Archive, and Tails - in no particular order.)
 
 * Donation [page](https://divested.dev/index.php?page=donate) of lead developer
     * Credit/debit card
