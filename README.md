@@ -32,35 +32,47 @@ Some general guidelines:
 ### Warning
 As Casey Neistat would say in his smartphone reviews, this is a **very biased**
 list (i.e., absolutely not neutral), as my opinions have ended up leaking out
-throughout the list.  As a fair warning, inserting my opinionated thoughts was a
-nonlinear fashion, so the ordering may not make any sense to outside readers.
+throughout the list.  As a fair warning, inserting my opinionated thoughts was
+done in a nonlinear fashion, so the order might not make any sense to outside
+readers.
 
 ### Disclaimer
 I have not been sponsored to list any of these projects.  If I use
 certain software or hardware listed here, then I will mention that fact when
 applicable and appropriate.  I also use these with my own money, if price
-applies.
+is applicable.
 
 ### Other informational tangent
 I want to donate to as many open source software projects (and adjacent ones) as
-much as possible.  Figuratively, I've been seeing the writing on the wall to
-donate to FOSS projects for some time now.  Slowly but eventually, I've come to
-the inevitable personal decision that I have to at least donate some money to
-all of the FOSS projects I've benefited from.  However, there are many more than
-I can remember in my mental memory (which fails for most lists longer than 5
+much as I can.  Figuratively, I've been seeing the writing on the wall to donate
+to FOSS projects for some time now.  Slowly but eventually, I've come to the
+inevitable personal decision that I have to at least donate some money to all of
+the FOSS projects I've benefited from.  However, there are many more than I can
+remember in my mental memory/RAM (which fails for most lists longer than 5
 items), so I'm putting them here.  Also, this isn't my only call to action to
 donate, but I've seen a call to do so in February 2022 from
 [Techlore](https://www.youtube.com/watch?v=RbSy-lZHLYw), as an example (before I
 became extremely bored with Henry's videos, as his co-hosted Surveillance
 Report podcast is much better than his own channel's videos right now in late
 2022 - and now I'm even starting to simply skim Surveillance Report URL lists,
-instead of actually listening to the 30 minute or longer episodes now).
+instead of actually listening to the 30 minute or longer episodes).
 
 ## Fundable
 These projects accept direct donations in some shape, fashion, or form.
 
 ### [Accrescent](https://accrescent.app/)
-...
+Accrescent is an app "store" and repository that is designed to have seamless
+updates and the UI/UX robustness of the GrapheneOS App [store](https://github.com/GrapheneOS/Apps).
+(I use the term "store" lightly, as you don't actually purchase, unlike
+proprietary apps from the Google Play Store or Apple App Store; but I ultimately
+don't have a better term.  Let's move on before we end up like
+[Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del#Later_life_and_death)
+when thinking about the [incompleteness](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+of human language - although I'm aware that Gödel starved to death due to
+refusing to eat food not prepared by his wife after a close colleague of his was
+assassinated during the rise of the Nazi Party.)  Keep an eye on this project,
+as it has [reached](https://lberrymage.dev/posts/accrescent-alpha/) the public
+alpha stage in mid-December 2022.
 
 * Credit/debit card
     * GitHub Sponsors for the lead [developer](https://github.com/sponsors/lberrymage)
