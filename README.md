@@ -158,7 +158,10 @@ _The New Yorker_ and _The Boston Globe_.  However, I doubt that
 archive&period;today will ever be as popular as the Wayback Machine anytime
 soon.  However, if archive&period;today can save a page, then it won't be taken
 down due to copyright strikes - unlike the Wayback Machine.  (This explains how
-the newspaper paywall bypass mentioned earlier can still stand.)
+the newspaper paywall bypass mentioned earlier can still stand.)  Jorge from
+[blameitonjorge](https://youtube.fandom.com/wiki/Blameitonjorge) - I'm looking
+at you: it's basically your obligation to start introducing archive&period;today
+as another tool to the [Lost Media Wiki](https://www.lostmediawiki.com/Home).
 
 * [Liberapay](https://liberapay.com/archiveis)
     * Strangely I could only find this by reading about Liberapay on Wikipedia
