@@ -177,7 +177,7 @@ Incognito mode.  I don't give a hoot if installing Bromite via
 [Droid-ify](https://github.com/Iamlooker/Droid-ify) [breaks](https://wonderfall.dev/fdroid-issues/)
 the Android security model - as long as Michael Bazzell recommends some form of
 F-Droid, I'll keep my F-Droid repository apps updated via Droid-ify.  Shut your
-mouth and either improve F-Droid or make a better competitor to F-Droid.)
+mouth, and either improve F-Droid or make a better competitor to F-Droid.)
 
 * [Info page](https://www.bromite.org/#donate)
     * Credit/debit card via [Patreon](https://www.patreon.com/csagan5)
@@ -194,7 +194,7 @@ civil liberties post-9/11 every single day.  Though out of scope for this
 to [(not) save](https://mises.org/library/anatomy-state) us like
 [Superman](https://en.wikipedia.org/wiki/Waiting_for_%22Superman%22) with
 legislation the people actually need.  (Did you not play
-[_Injustice 2_](https://en.wikipedia.org/wiki/Injustice_2)?.) Anyways, I'm
+[_Injustice 2_](https://en.wikipedia.org/wiki/Injustice_2)?) Anyways, I'm
 putting CalyxOS here out of obligation, but not because I personally am
 benefited from CalyxOS directly.  In this case, it's always good to have options
 for alternative Android OS's, even if I feel like CalyxOS's software engineering
@@ -208,17 +208,17 @@ Alderson-inspired nomadic cracker character.  (Obviously this hotspot wouldn't
 be activated near sleeping locations and sensitive opsec locations, but you get
 the gist.)
 
-* One-time donation to the Calyx Institute: https://calyxinstitute.org/donate
-* Internet Membership: https://calyxinstitute.org/membership/internet
-    * A really good mobile 4G/5G Wi-Fihotspot, especially if you live a nomadic
+* One-time [donation](https://calyxinstitute.org/donate) to the Calyx Institute
+* Internet [Membership](https://calyxinstitute.org/membership/internet)
+    * A really good mobile 4G/5G Wi-Fi hotspot, especially if you live a nomadic
       life
     * Calyx Institute shines as a lawful good NGO performing social good
       services (for example, it runs Tor relays)
-* CalyxOS Membership: https://calyxinstitute.org/membership/calyxos
-    * Seems very expensive - not to be a moralistic gatekeeper, but you as a
-      reader are definitely capable of installing CalyxOS if you've found
+* CalyxOS [Membership](https://calyxinstitute.org/membership/calyxos)
+    * Seems very expensive - not to be a moralistic gatekeeper, but you, as a
+      reader, are definitely capable of installing CalyxOS if you've found
       CalyxOS on your own and thus save lots of money by simply installing
-      CalyxOS yourself (use the web browser if you have more relaxed security
+      CalyxOS yourself (use the web installer if you have more relaxed security
       posture - I can't remember if CalyxOS ever put back the manual CLI
       installation instructions back)
         * Also, I feel like CalyxOS doesn't have much of a value proposition
@@ -228,13 +228,14 @@ the gist.)
           I do acknowledge that I've had a extremely Google Play Services and
           proprietary Android app "vegan" opsec mentality with my phone since
           2019 - so I can live very well cutting out Google Play Services from
-          my Android phone without severe IRL usability consequences.  I'm
-          pretty sure Slack [works](https://plexus.techlore.tech/applications/slack)
+          my Android phone without severe IRL usability consequences.  For
+          example, I'm pretty sure Slack [works](https://plexus.techlore.tech/applications/slack)
           without Google Play Services, but I happen to have it installed (on a
           secondary user profile) with Duo Mobile that absolutely needs
-          [sandboxed]() Google Play Services to work (but without any push
-          notifications - you'll need to manually open the app as before or
-          during the activation of the Duo prompt)
+          [sandboxed](https://grapheneos.org/usage#sandboxed-google-play) Google
+          Play Services to work (but without any push notifications - you'll
+          need to manually open the app as before or during the activation of
+          the Duo prompt).
 
 ### [Debian](https://en.wikipedia.org/wiki/Debian)
 ...
