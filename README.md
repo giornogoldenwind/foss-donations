@@ -116,7 +116,13 @@ your practice (i.e., realistically achievable with your current tradecraft),
 then go for Arch Linux - it's definitely an experience to remember, even if you
 only do it once on bare metal.  Arch Linux would definitely be one of the ideal
 Linux distros for me to install the `linux-hardened` kernel on, without 
-compiling the `linux-hardened` kernel itself (no hate on Gentoo).
+compiling the `linux-hardened` kernel itself (no hate on Gentoo).  If you come
+to any of my Linux talks in the future and start spewing vitriolic and
+subjective hatred on `systemd`, then I **will** throw you out (along venue rule
+lines and local laws, of course) - I am too old for that kind of childish
+behavior.  Go back and watch some alt-right Linux YouTubers if you can't be
+mature enough during my Linux talks when I'm trying to encourage nontechnical
+people to use Pop!\_OS, Linux Mint, or elementary OS.
 
 * Donate [page](https://archlinux.org/donate/)
     * Credit/debit card
