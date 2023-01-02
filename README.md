@@ -238,7 +238,18 @@ the gist.)
           the Duo prompt).
 
 ### [Debian](https://en.wikipedia.org/wiki/Debian)
-...
+Debian is the grandparent distro of many well-known Linux distributions: for
+example, Pop!\_OS only exists, thanks to Debian.  However, for personal desktop
+Linux usage, Debian hasn't really kept up with the times.  Debian doesn't have
+any explicit instructions on how to verify your downloaded ISO files and you
+must look [elsewhere](https://danilodellaquila.com/en/blog/how-to-verify-authenticity-of-downloaded-debian-iso-images);
+while early every other Linux distro and Qubes OS has explicit instructions on
+how to do so (well, maybe not LineageOS, but it's kind of a miracle that
+LineageOS announced LOS 20/Android 13 on the last day of[2022](https://lineageos.org/Changelog-27/)).
+Still, Debian Stable, despite being behind the times (and meddling with upstream
+packaging), is an undisputed monarch when it comes to deploying a real-world
+Linux server for companies and other entities; so, Debian isn't going away
+anytime soon.
 
 * Donation [page](https://www.debian.org/donations)
     * Credit/debit card
