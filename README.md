@@ -84,7 +84,7 @@ app on Android (i.e.: read as Google Authenticator compatible) for the 6-digit
 backups and works with Seedvault backups (which is available on GrapheneOS,
 CalyxOS, and LineageOS/DivestOS).
 
-* Credit card through [Buy Me A Coffee](: https://www.buymeacoffee.com/beemdevelopment)
+* Credit card through [Buy Me A Coffee](https://www.buymeacoffee.com/beemdevelopment)
 * Cryptocurrency methods (Bitcoin... and Nano?  Sorry, I'm mentally too old to
 deal with cryptocurrency coins that aren't egalitarian, such as Monero.)
 
