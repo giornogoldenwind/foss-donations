@@ -652,7 +652,7 @@ itself.  (If Molly lets its users decide between using the auto-updater and the
 F-Droid repo like actual adults, then I can manage my decision as as adult as
 well.)
 
-### Kali Linux
+### [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux)
 ...
 
 * Contribution [page](https://www.kali.org/docs/community/contribute/)
