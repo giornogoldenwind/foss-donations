@@ -97,7 +97,9 @@ the visible anti-fascist messaging, or just don't use this if you're not mature
 enough to handle differences in ideology.  (Clearly more than 90% of American
 politicians are incapable of this - no wonder why the U.S. government can't
 achieve anything nowadays.  Maybe Plato was correct and we should conscript
-government leaders, instead of electing them.)
+government leaders, instead of electing them.)  antiX is `systemd`-free, though
+that's probably out of necessity to successfully run on 32-bit machines than out
+of disdain for `systemd` as a computing "aesthetic".
 
 * Donate prompt at bottom of [homepage](https://antixlinux.com/)
     * Credit/debit card through PayPal
