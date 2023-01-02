@@ -124,7 +124,16 @@ subjective hatred on `systemd`, then I **will** throw you out (along venue rule
 lines and local laws, of course) - I am too old for that kind of childish
 behavior.  Go back and watch some alt-right Linux YouTubers if you can't be
 mature enough during my Linux talks when I'm trying to encourage nontechnical
-people to use Pop!\_OS, Linux Mint, or elementary OS.
+people to use Pop!\_OS, Linux Mint, or elementary OS.  Anyways, the
+[AUR](https://en.wikipedia.org/wiki/Arch_Linux#Arch_User_Repository_(AUR)) (the
+Arch User Repository) is one of the strong points of Arch Linux (or any AUR
+compatible Pacman-based distro): you can install many packages that aren't even
+available for Debian-/Ubuntu-based distros with little to no fuss.  (There is
+one notable and personal example: installing Linphone on Arch Linux is a
+seemingly impossible task... I hope someone packages Linphone properly for
+native Arch Linux repos at some point in the future.  This is one of the few
+examples where Debian-/Ubuntu-based distros are better than Arch Linux, though
+edge or corner cases like these are extremely rare.)
 
 * Donate [page](https://archlinux.org/donate/)
     * Credit/debit card
